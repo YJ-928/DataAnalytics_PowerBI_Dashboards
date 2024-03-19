@@ -1,5 +1,5 @@
-# DataAnalytics_PowerBI_Dashboards
-#### A Git Repository to showcase Data Visualisation using PowerBI Dashboards
+# Data Analytics Power BI Dashboards
+#### Repository to Showcase Data Visualisation using PowerBI Dashboards
 
 ### Realmart Sales Dashboard
 ![Realmart Sales Dashboard Assignment](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/6e58cb67-c675-45b0-a5a6-9fcf85fe2aae)
