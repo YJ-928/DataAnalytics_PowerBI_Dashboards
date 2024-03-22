@@ -1,6 +1,18 @@
 # Data Analytics Power BI Dashboards
 #### Repository to Showcase Data Visualisation using PowerBI Dashboards
 
+### UK Road Accident Dashboard
+![Adv UK Road Accident Dashboard Submission](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/abaec90f-ee50-493d-a324-2bc2729e9508)
+
+### Adidas Sales Dashboard
+![Adv Adidas Sales Dashboard Submission](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/737c1a0a-849b-43eb-8142-92132393619b)
+
+### COVID-19 Impact on Students Dashboard
+![Adv Impact of COVID19 Dashboard Submission](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/3ae30d28-c1f0-44b3-bb74-add90fcdae51)
+
+### Innovative X HR Dashboard
+![Adv InnovativeX HR Dashboard Submission](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/b59129c0-30dd-470a-b22d-896cb6155d09)
+
 ### Realmart Sales Dashboard
 ![Realmart Sales Dashboard Assignment](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/6e58cb67-c675-45b0-a5a6-9fcf85fe2aae)
 
