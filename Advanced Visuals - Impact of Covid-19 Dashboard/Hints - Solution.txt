@@ -1,0 +1,23 @@
+What is the average time spent on online classes, sleep, fitness and social media?
+Hint - UseCard visual
+
+How many students experienced a change in weight during the lockdown?
+Hint - UseSlicerto filter based on change in weight
+
+What were the top 5 activities reported as stress busters by students?
+Hint - UseTop N filtering
+
+Which social media platforms were most frequently used by students and how much time was spent on each?
+Hint -Bar chart by social media platform by avg time spent on social media
+
+What is the overall online class experience reported by students?
+Hint -Column chart online experience/count of student id
+
+How does the time spent on online classes vary across different mediums?
+Hint -Tree map
+
+What is the average time spent on Instagram, YouTube, and WhatsApp only by students in the age group under 25?
+Hint - UseBasic filteringto select only three social media and advanced filtering for age.
+
+How does the time spent on self-study vary across different regions?
+Hint -Pie chart

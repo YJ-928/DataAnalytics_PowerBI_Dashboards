@@ -1,0 +1,19 @@
+Your Dashboard Should Include
+
+Use Advanced Power BI Visualisations and Filters.
+
+What is the average time spent on online classes, sleep, fitness and social media?
+
+How many students experienced a change in weight during the lockdown
+
+Which were the top 5 activities reported as stress busters by students?
+
+Which social media platforms are most frequently used by students and how much time is spent on each?
+
+What is the overall online class experience reported by students?
+
+How does the time spent on online classes vary across different Medium for online classes?
+
+What is the average time spent on Instagram, YouTube, and WhatsApp only by students in the age group under 25?
+
+How does the time spent on self-study vary across different regions?

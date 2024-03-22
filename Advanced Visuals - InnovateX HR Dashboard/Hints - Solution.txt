@@ -1,0 +1,26 @@
+What is the total attrition count and total employees?
+Hint - usecard visual(sum of attritionCount)
+
+What is the attrition rate by gender for different age groups (under 25, 25 - 34, 35 - 45, Over 45)?
+Hint - four donut chart for each age group using advanced filters
+
+What is the attrition count by department?
+Hint -bar chart
+
+How many employees are there for each job role, categorized by their performance rating?
+Hint - usematrix
+
+What is the average hourly rate by department?
+Hint -bar chart department/ avg hourly rate
+
+What is the average monthly income by job role and gender?
+Hint -clustered column chart, gender as legend
+
+What is the relation between attrition and percent salary hike?
+Hint - usescatter plot
+
+Who are the top 10 employees with the highest salary in the company?
+Hint -Table visual filtered by Top N
+
+How does the data in report page change when it's filtered with Marital Status?
+Hint - use a Slicer for Marital status

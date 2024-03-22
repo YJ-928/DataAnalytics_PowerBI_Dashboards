@@ -1,0 +1,13 @@
+Insights
+
+T junctions are the hotspot for accidents
+
+Cars vehicle are more prone to accidents
+
+Westminster, Lambeth, Barnet are the districts with more than 1000 accidents
+
+As the number of vehicles involved in accident increases, the average casualties increases
+
+Dry road surfaces are accident prone zones
+
+98% accidents were investigated by Metropolitan police

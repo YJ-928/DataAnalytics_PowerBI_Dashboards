@@ -1,0 +1,13 @@
+Insights
+
+Employees with a lower percentage salary hike are more likely to experience attrition
+
+Employee with 3 performance rating are more likely to experience attrition
+
+Research and Development department has the highest attrition
+
+All departments have similar average hourly rate
+
+Manager and Research Director are the highest paying job roles
+
+Men are more likely to experience attrition than female

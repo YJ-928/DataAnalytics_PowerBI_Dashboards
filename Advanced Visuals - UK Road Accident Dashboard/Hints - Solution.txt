@@ -1,0 +1,29 @@
+What are total Casualties, average speed limit?
+Hint - UseCard visual
+
+Which police force has the highest number of reported accidents?
+Hint - UsePie charthere
+
+Which districts have more than 1000 number of reported accidents?
+Hint -Column chartwith advanced filtering
+
+Which vehicle types are involved in the highest number of accidents?
+Hint -Column chart
+
+What is the relationship between the number of vehicles involved in an accident and the average of casualties?
+Hint -Scatter plotbetween number of vehicle/avg casualties
+
+What is the trend of accidents over date (year, qtr, months or even a day) in the UK?
+Hint -Use Drill down filtering in a line chart
+
+Are there certain junction types that are more commonly associated with accidents?
+Hint -Sorted bar chart
+
+Which districts are the most affected in terms of accidents?
+Hint -Top N filtering
+
+How do road surface conditions affect accident severity?
+Hint -Clustered column chart
+
+Add a slicer for accident severity and district to filter the entire report page.
+Hint - UseSlicer visualhere
