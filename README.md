@@ -1,6 +1,11 @@
 # Data Analytics Power BI Dashboards
 #### Repository to Showcase Data Visualisation using PowerBI Dashboards
 
+### Pharmaceutical Market Analysis Report
+![Pharrmaceutical Market Report Page 1](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/2157d371-677d-48c9-9841-d6fa638ffdba)
+![Pharrmaceutical Market Report Page 2](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/18977dc4-efc7-4d0c-a772-3b232925de54)
+
+
 ### UK Road Accident Dashboard
 ![Adv UK Road Accident Dashboard Submission](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/abaec90f-ee50-493d-a324-2bc2729e9508)
 
