@@ -2,7 +2,9 @@
 #### Repository to Showcase Data Visualisation using PowerBI Dashboards
 
 ### Pharmaceutical Market Analysis Report
+#### Page-1
 ![Pharrmaceutical Market Report Page 1](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/2157d371-677d-48c9-9841-d6fa638ffdba)
+#### Page-2
 ![Pharrmaceutical Market Report Page 2](https://github.com/YJ-928/DataAnalytics_PowerBI_Dashboards/assets/68319416/18977dc4-efc7-4d0c-a772-3b232925de54)
 
 
